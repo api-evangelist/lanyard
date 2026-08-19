@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/lanyard.pn
 name: Lanyard
 description: "Retrieve your presence on Discord through an HTTP REST API or WebSocket"
 url: https://github.com/Phineas/lanyard
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis

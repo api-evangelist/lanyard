@@ -39,7 +39,6 @@ apis:
   - name: Lanyard
     description: "Retrieve your presence on Discord through an HTTP REST API or WebSocket"
     humanURL: https://github.com/Phineas/lanyard
-    baseURL: https://github.com/Phineas/lanyard
     tags:
       - Social
     properties:
